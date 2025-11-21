@@ -1,20 +1,16 @@
 # 📔**Supply Chain**
-Tool : Google Collab, Tableau, Ms.Excel <br>
+Tool : Google Collab, Looker, Ms.Excel, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
+Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 Stage 0: Business Understanding
-## Background Project :
-wretwyujk
-
-## Objective :
-1. rwtehrjk
-2. retwyutkejr
+## Tugas :
+Analisis Kinerja Rantai Pasok dan Optimasi Biaya.
 
 ## Goals :
-maneuhejrk
+Mengidentifikasi hambatan efisiensi dengan menganalisis korelasi antara variabel operasional dan variabel keuangan, untuk meminimalkan biaya operasional dan mengoptimalkan ketersediaan produk berdasarkan penjualan aktual.
 <br>
 
 # 📂 Stage 1: Exploratory Data Analysis
